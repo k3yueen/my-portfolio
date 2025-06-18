@@ -36,4 +36,4 @@ npm run build
 
 You can preview the production build with `npm run preview`.
 
-> Deployment requires an adapter [adapter](https://kit.svelte.dev/docs/adapters) Pick one that makes sense or not. It's your app
+> Deployment requires an adapter [adapter](https://kit.svelte.dev/docs/adapters). Pick one that makes sense or not. It's your app
